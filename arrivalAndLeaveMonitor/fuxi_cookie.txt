@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+fuxi.800best.com	FALSE	/	FALSE	3716304711	SCOUTER	x5qm1iathacafj
+fuxi.800best.com	FALSE	/	FALSE	1569080263	rememberMe	VlGga9VoKY4blzzpPyVRKFjfxo5vLVj9+RgahB4t9HmA7kqMsYnVj4U+psc9cf5uw5rI4D+y20Eb2lwJpRH3T6eWmxr2NsaF7wnJQ3d0musYcL777aBgBFdNafcte3H/aFwxDhwD/u0xX8lMUY9btTUn7nkSXPfJVJcV8eGW0E7pa4Plxda0XDiU5AOahq7RYh1ZgEmCN2pZKC8BlsDwRkQs4kpOn5Aa1qL8serrroNZ6jeumXgeaiCSug2/++UMv8nejzZiSJ5JXPRL5e3jXOXpnxkpMV6nNNijA3+3QXLMJs8xY/lI8uK868M6cuDDBaLYY5fINU1hAvCJJVSAeAhn7cadfcmxf6SHmKIywfqASiMNbkeV6pX1Q8YLUSVSrg5hTXtdsVQYnDbr0fntshgjIPbH4otKxWs9jH24ffGA+mFN5iselxSTNAX7tZVwSn+sPtzU5neziYpkkhZGz5SrLNSSohSuXQUpgNAOhYasTYPlpmm6r7uxl7bSjuIP
+fuxi.800best.com	FALSE	/	FALSE		sid	c917509d-dd63-4ca2-83bd-ce02c96404ec
